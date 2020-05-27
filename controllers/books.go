@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"../models"
+	"github.com/dacharat/go-rest-api/models"
 	"github.com/gin-gonic/gin"
 )
 
